@@ -1,3 +1,6 @@
 #!/usr/bin/python3
 
-print(('Hello World ') * 100)
+def main(msg):
+    print(msg)
+
+main("Hello People")
